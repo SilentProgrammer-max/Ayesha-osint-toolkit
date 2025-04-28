@@ -10,3 +10,4 @@ if __name__ == "__main__":
     sample = "Contact us at support@example.com or admin@example.org"
     emails = find_emails(sample)
     print("Found Emails:", emails)
+
