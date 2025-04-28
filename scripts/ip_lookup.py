@@ -23,6 +23,3 @@ def ip_lookup(ip):
 if __name__ == "__main__":
     ip = input("Enter IP address: ")
     ip_lookup(ip)
-
-
-
