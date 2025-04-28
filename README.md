@@ -38,6 +38,8 @@ This script helps to find email addresses associated with a specific domain.
 
 #### Example usage:
 ```
+
+hee hee it's  good
 python scripts/email_finder.py
 ``` 
 
