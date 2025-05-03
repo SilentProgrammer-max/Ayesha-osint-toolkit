@@ -1,8 +1,6 @@
 ## Ayesha OSINT Toolkit
 This is my first OSINT toolkit project. It includes several tools for performing various OSINT (Open Source Intelligence) tasks such as username checking, email validation, and IP lookup. These scripts help gather information from publicly available data sources.
 
-
-
 ### Requirements
 Python 3.x
 
