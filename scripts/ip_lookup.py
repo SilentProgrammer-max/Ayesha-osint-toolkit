@@ -14,7 +14,7 @@ def ip_lookup(ip):
             print(f"City: {data['city']}")
             print(f"ISP: {data['isp']}")
             print(f"Lat/Lon: {data['lat']}, {data['lon']}")
-        else:
+        else: 
             print("Invalid IP or API limit reached.")
 
     except Exception as e:
